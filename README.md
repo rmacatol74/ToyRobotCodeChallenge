@@ -43,3 +43,38 @@ Example Input and Output:
     Output: 3,3,NORTH
 ```
 
+## About the project
+
+**ToyRobotAppMFC** project is a Console Windows application with Precomplied header and MFC header option enabled during creation. This project is created using Visual Studio 2022. 
+
+### Prerequisites
+Must have Visual Studio with the Desktop development with C++ workload installed and running on your computer. If it's not installed yet, follow the steps in Install C++ support in Visual Studio. **https://learn.microsoft.com/en-us/cpp/build/vscpp-step-2-build?view=msvc-170**
+
+### Repo:
+
+```
+
+git clone https://github.com/rmacatol74/ToyRobotCodeChallenge.git
+
+```
+
+### Building the solution
+1. Open the solution or the project file using Visual Studio : 
+
+```
+\ToyRobotAppMFC\ToyRobotAppMFC.sln
+
+or
+
+\ToyRobotAppMFC\ToyRobotAppMFC\ToyRobotAppMFC.vcxproj
+
+```
+
+2. To build the  project, choose **Build Solution** from the **Build** menu
+3. To run the code, on the menu bar, choose **Debug, Start without debugging**.
+
+### Running the Unit Test
+
+1. Open **Test Explorer**. To open the Test Explorer, choose **Test > Test Explorer** from the top menu bar (or **press Ctrl + E, T**).
+
+2. Run the unit tests by clicking **Run All** (or **press Ctrl + R, V**).
