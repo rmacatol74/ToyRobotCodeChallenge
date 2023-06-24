@@ -48,7 +48,7 @@ Example Input and Output:
 **ToyRobotAppMFC** project is a Console Windows application with Precomplied header and MFC header option enabled during creation. This project is created using Visual Studio 2022. 
 
 ### Prerequisites
-Must have Visual Studio with the Desktop development with C++ workload installed and running on your computer. If it's not installed yet, follow the steps in Install C++ support in Visual Studio. **https://learn.microsoft.com/en-us/cpp/build/vscpp-step-2-build?view=msvc-170**
+Must have Visual Studio with the Desktop development with C++ workload installed and running on your computer. If it's not installed yet, follow the steps in Install C++ support in Visual Studio. **https://learn.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-170**
 
 ### Repo:
 
